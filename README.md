@@ -170,15 +170,10 @@ For changing the screenshot:
         <h2>Get in Touch</h2>
         <div class="contact__info">
           <p>
-            Are you looking for a fast-performing and user-friendly website to
-            represent your product or business? or looking for any kind of
-            consultation? or want to ask questions? or have some advice for me
-            or just want to say "Hi 👋" in any case feel free to Let me know. I
-            will do my best to respond back. 😊 The quickest way to reach out to
-            me is via an email.
+            I’m always open to new opportunities, collaborations, and meaningful conversations. If you’d like to discuss a project, share an idea, or explore how we can work together, feel free to reach out. I’ll get back to you as soon as possible.
           </p>
           <!-- Replace the email with yours -->
-          <a href="mailto:you@example.com" class="btn">you@example.com</a>
+          <a href="mailto:ashlesha123c@gmail.com" class="btn">ashlesha123c@gmail.com</a>
         </div>
       </div>
 </section>
