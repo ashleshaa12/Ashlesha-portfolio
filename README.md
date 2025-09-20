@@ -137,10 +137,7 @@ For changing the screenshot:
             <div class="about__text">
                 <!-- Replace the below paragraph with info about yourself -->
                 <p>
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos id
-                nostrum illo harum blanditiis, tenetur eum suscipit cupiditate
-                in vel, ex quam quidem quos mollitia labore aut sunt eius
-                ratione molestiae fuga veniam facere similique voluptate.
+                I’m an IT professional with a background in Computer Systems Engineering and experience in IT support, system management, and research. Passionate about technology and problem-solving, I enjoy creating practical solutions and aim to grow into project management, where I can lead teams and deliver impactful results.
                 </p>
                 <!-- Provide a link to your resume -->
                 <a href="#" class="btn">My Resume</a>
